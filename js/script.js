@@ -31,4 +31,5 @@ const loop = setInterval(() => {
     }
 }, 10)
 
+// Pegando informação de pulo ao pressionar alguma tecla
 document.addEventListener('keydown', jump)
